@@ -1,6 +1,12 @@
 # Extreme War Experience - ROBLOX
- My passion for history lies here.
 
+ My passion for history lies here.
+ ----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ Background
+ 
+ Extreme War Experience is a group, community, and place for the history-loving players of ROBLOX. We create games that provide historical awareness and allows players to reenact and experience historical events virtually. Given the amount of positive feedback we recieved from players that are enlisted in the United States Armed Forces, sons and daughters of veterans who fought in past historical events, people who admires history and supports our veterans--this is the proudest project I've project-led on, and my passion for history lies here.
+ 
+ ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 War in the Pacific RP:
 https://www.roblox.com/games/4840984599/War-in-the-Pacific-RP
 -2.7 million visits, with 40-80 active players daily.
