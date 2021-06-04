@@ -1,6 +1,6 @@
 # Extreme War Experience - ROBLOX
+> History is the version of past events that people have decided to agree upon. - Napoleon Bonaparte
 
- My passion for history lies here.
  ----------------------------------------------------------------------------------------------------------------------------------------------------------------
  Background
  
