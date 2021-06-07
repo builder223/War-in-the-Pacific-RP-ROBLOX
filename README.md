@@ -11,9 +11,8 @@ Napoleon Bonaparte said,
  
  ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-1. War in the Pacific RP
-     - https://www.roblox.com/games/4840984599/War-in-the-Pacific-RP
-     - Set in the Pacific region during WW2, when Allied Forces began to sweep each and every island to what is known as
+1. [War in the Pacific RP](https://www.roblox.com/games/4840984599/War-in-the-Pacific-RP)
+     - Set in the Pacific theatre during WW2, when Allied Forces began to sweep each and every island to what is known as
       ['island-hopping'](https://www.nationalww2museum.org/war/articles/pacific-strategy-1941-1944).
      - 2.7 million visits, with 40-80 active players daily.
      - Project-led a team of 4 cross functional developers
