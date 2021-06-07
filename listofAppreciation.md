@@ -1,5 +1,7 @@
 Background:
  These are the moments,feedbacks,etc. coming from the community that will last a lifetime.
+ 
+ DISCLAIMER: These are some of pictures that are from the community and do not represent all of them.
  ------------------------------------------------------------------------------------------------------------------------------------------------------
  1. Feedbacks
  * (This is the best one I've recieved)
@@ -17,7 +19,26 @@ Background:
  
  ------------------------------------------------------------------------------------------------------------------------------------------------------
  2. Moments and Community
+ ```NOTE: We abide by ROBLOX's Terms of Services,promising the community we will provide a safe, appropriate, and alternative product for them to play on. My group staff team and development team both on Discord and ROBLOX will closely monitor what goes on in our games and in our communications network. We have said this since day one: we will not tolerate any form of discrimination, racism, and bigotry.``` 
  
  ![](https://gyazo.com/4a967876ec2d9940157e512e900f6e2c.png)
- 
+ * Allied Airborne Operations
  ![](https://cdn.discordapp.com/attachments/721038664720711680/832860614903726080/58392790-3233-413A-918D-EDCA24789419.jpeg)
+ * US Marines Patrol
+ ![](https://cdn.discordapp.com/attachments/740588636973694976/844058414052147200/Screen_Shot_2021-05-17_at_4.36.17_PM.png)
+ * Opening of Community Factions
+ ![](https://media.discordapp.net/attachments/732566562468266046/733653110131654716/unknown.png)
+ * Smaller Gatherings
+ ![](https://cdn.discordapp.com/attachments/721038664720711680/822846759843135548/RobloxScreenShot20210320_154547360.png)
+ 
+ 
+ ------------------------------------------------------------------------------------------------------------------------------------------------------
+ 3. Fan Arts 
+ ![](https://media.discordapp.net/attachments/767796858020954172/813142300204466176/image0.jpg)
+ ![](https://cdn.discordapp.com/attachments/816328580320460820/816843097346015262/image0.jpg)
+ ![](https://media.discordapp.net/attachments/808864446671749140/819052982326919178/158996147_271659124581120_2202294291467992777_n.png)
+ ![](https://cdn.discordapp.com/attachments/805725870001356820/810660078600192030/150554966_826170911295339_1749230692822467291_n.jpg)
+ ![](https://cdn.discordapp.com/attachments/721038664720711680/815616636244721664/image0.jpg)
+ 
+ 
+ 
