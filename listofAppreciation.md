@@ -20,4 +20,4 @@ Background:
  
  ![](https://gyazo.com/4a967876ec2d9940157e512e900f6e2c.png)
  
- ![](https://cdn.discordapp.com/attachments/721038664720711680/832860614903726080/58392790-3233-413A-918D-EDCA24789419.jpeg.png)
+ ![](https://cdn.discordapp.com/attachments/721038664720711680/832860614903726080/58392790-3233-413A-918D-EDCA24789419.jpeg)
