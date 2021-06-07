@@ -37,4 +37,12 @@ Background:
  ![](https://cdn.discordapp.com/attachments/721038664720711680/815616636244721664/image0.jpg)
  
  
+ ------------------------------------------------------------------------------------------------------------------------------------------------------
+ 4. Youtube and Content Creators
+ 
+ * Flamingo [(1.8+ million views, 3/4 of the video)](https://www.youtube.com/watch?v=vHQYMkD5YRY&t=337s)
+ * Sebee [(390k + views)](https://www.youtube.com/watch?v=cQWx9hXNqaQ&t=338s&ab_channel=sebee)
+ 
+ 
+ 
  
