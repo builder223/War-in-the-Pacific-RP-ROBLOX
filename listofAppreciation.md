@@ -18,7 +18,7 @@ Background:
  and many more embedded into the community wall!
  
  ------------------------------------------------------------------------------------------------------------------------------------------------------
- 2. Moments and Community
+ 2. Moments
  ```NOTE: We abide by ROBLOX's Terms of Services,promising the community we will provide a safe, appropriate, and alternative product for them to play on. My group staff team and development team both on Discord and ROBLOX will closely monitor what goes on in our games and in our communications network. We have said this since day one: we will not tolerate any form of discrimination, racism, and bigotry.``` 
  
  ![](https://gyazo.com/4a967876ec2d9940157e512e900f6e2c.png)
