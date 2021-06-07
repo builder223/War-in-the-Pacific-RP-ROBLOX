@@ -16,11 +16,12 @@ Napoleon Bonaparte said,
       ['island-hopping'](https://www.nationalww2museum.org/war/articles/pacific-strategy-1941-1944).
      - 2.7 million visits, with 40-80 active players daily.
      - Project-led a team of 4 cross functional developers
-     - Generates a monthly profit of $3500 (net) worth of exchangable robux through ROBLOX's Developer Exchange program.
+     - Generates a monthly profit of $3500 (net) worth of exchangable robux through [ROBLOX's Developer Exchange program](https://en.help.roblox.com/hc/en-us/articles/203314100-Developer-Exchange-DevEx-FAQs).
      - Utilized Lua(Luau), Blender, and ROBLOX Studios.
 
 2. Battle of Carentan
      - WIP, expected finish date: late summer 2021.
+     - Please join our [discord server](https://discord.com/invite/FYdYv6u) to see the updates!!!
 
 
 
@@ -28,8 +29,7 @@ Napoleon Bonaparte said,
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 Unsuccessful Projects (aka projects that motivates me to do more)
 
-1. Campaign for Italy (Battle of Monte Cassino)
-     - https://www.roblox.com/games/5273068516/BETA-Campaign-of-Italy
+1. [Campaign for Italy (Battle of Monte Cassino)](https://www.roblox.com/games/5273068516/BETA-Campaign-of-Italy)
      - Implemented and test a first person shooter strategey that was unpopular with the community.
      - Allowed me to learn what's best for community and the type of creative development they want.
 
