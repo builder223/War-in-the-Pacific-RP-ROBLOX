@@ -27,7 +27,7 @@ Napoleon Bonaparte said,
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
-Unsuccessful Projects (aka projects that motivates me to do more)
+Unsuccessful Projects (a learning experience)
 
 1. [Campaign for Italy (Battle of Monte Cassino)](https://www.roblox.com/games/5273068516/BETA-Campaign-of-Italy)
      - Implemented and test a first person shooter strategey that was unpopular with the community.
